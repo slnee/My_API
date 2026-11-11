@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="style.css" rel="stylesheet">
+    <title>Phobies</title>
+</head>
+
+<body>
+    <h1>Liste des phobies</h1>
+    <h2>Connexion</h2>
+
+    <form id="loginForm">
+        <input type="text" id="email" placeholder="Email">
+        <input type="password" id="password" placeholder="Mot de passe">
+        <button>Se connecter</button>
+    </form>
+
+    <button id="logout" hidden>Se déconnecter</button>
+
+    <p id="message"></p>
+    <hr>
+
+    <div id="admin" hidden>
+        <h2 id="titreForm">Ajouter une phobie</h2>
+
+        <form id="phobieForm">
+            <input id="phobieNom" placeholder="Nom">
+            <input id="description" placeholder="Description">
+            <input id="category" placeholder="Catégorie">
+            <input id="rarete" placeholder="Rareté">
+            <button id="phobieBouton">Ajouter</button>
+            <button type="button" id="annuler" hidden>Annuler</button>
+        </form>
+        <hr>
+    </div>
+
+    <div id="liste"></div>
+
+    <div id="pagination">
+        <button id="precedent">Précédent</button>
+        <span id="page">1</span>
+        <button id="suivant">Suivant</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

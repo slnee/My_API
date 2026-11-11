@@ -1,0 +1,1178 @@
+[
+  {
+    "id": 1,
+    "nom": "arachnophobie",
+    "description": "Peur des araignées.",
+    "categorie": "Animaux",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 2,
+    "nom": "ophidiophobie",
+    "description": "Peur des serpents.",
+    "categorie": "Animaux",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 3,
+    "nom": "cynophobie",
+    "description": "Peur des chiens.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 4,
+    "nom": "ailurophobie",
+    "description": "Peur des chats.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 5,
+    "nom": "musophobie",
+    "description": "Peur des rats.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 6,
+    "nom": "musophobie2",
+    "description": "Peur des souris.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 7,
+    "nom": "blattophobie",
+    "description": "Peur des cafards.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 8,
+    "nom": "apiphobie",
+    "description": "Peur des abeilles.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 9,
+    "nom": "spheksophobie",
+    "description": "Peur des guêpes.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 10,
+    "nom": "entomophobie",
+    "description": "Peur des insectes.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 11,
+    "nom": "mottephobie",
+    "description": "Peur des mites.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 12,
+    "nom": "acarophobie",
+    "description": "Peur des bêtes qui grouillent.",
+    "categorie": "Animaux",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 13,
+    "nom": "scoleciphobie",
+    "description": "Peur des vers/chenilles.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 14,
+    "nom": "héliciphobie",
+    "description": "Peur des escargots.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 15,
+    "nom": "Ranidaphobie",
+    "description": "Peur des grenouilles.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 16,
+    "nom": "Batracophobie",
+    "description": "Peur des batraciens.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 17,
+    "nom": "herpétophobie",
+    "description": "Peur des reptiles.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 18,
+    "nom": "squalophobie",
+    "description": "Peur des requins.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 19,
+    "nom": "octophobie",
+    "description": "Peur des pieuvres.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 20,
+    "nom": "kabourophobie",
+    "description": "Peur des crabes.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 21,
+    "nom": "ichtyophobie",
+    "description": "Peur des poissons.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 22,
+    "nom": "cétaphobie",
+    "description": "Peur des baleines.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 23,
+    "nom": "chiroptophobie",
+    "description": "Peur des chauves-souris.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 24,
+    "nom": "ornithophobie",
+    "description": "Peur des oiseaux.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 25,
+    "nom": "botanophobie",
+    "description": "Peur de la vegetation.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 26,
+    "nom": "équinophobie",
+    "description": "Peur des chevaux.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 27,
+    "nom": "bovinophobie",
+    "description": "Peur des vaches.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 28,
+    "nom": "lycophobie",
+    "description": "Peur des loups.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 29,
+    "nom": "arctophobie",
+    "description": "Peur des ours.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 30,
+    "nom": "léontophobie",
+    "description": "Peur des lions.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 31,
+    "nom": "pachidermophobie",
+    "description": "Peur des éléphants.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 32,
+    "nom": "hippopotomonstrosesquipédaliophobie",
+    "description": "Peur des mots trop longs.",
+    "categorie": "Concept",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 33,
+    "nom": "pithecophobie",
+    "description": "Peur des singes.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 34,
+    "nom": "acarophobie",
+    "description": "Peur des parasites.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 35,
+    "nom": "vermiphobie",
+    "description": "Peur des larves.",
+    "categorie": "Animaux",
+    "rareté": "Commune"
+  },
+  {
+    "id": 36,
+    "nom": "acrophobie",
+    "description": "Peur de la hauteurs.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 37,
+    "nom": " spéluncaphobie",
+    "description": "Peur des grottes.",
+    "categorie": "Nature",
+    "rareté": "Commune"
+  },
+  {
+    "id": 38,
+    "nom": "hylophobie",
+    "description": "Peur des forêts.",
+    "categorie": "Nature",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 39,
+    "nom": "thalassophobie",
+    "description": "Peur des eaux profondes.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 40,
+    "nom": "arénaphobie",
+    "description": "Peur des sables mouvants.",
+    "categorie": "Nature",
+    "rareté": "Rare"
+  },
+  {
+    "id": 41,
+    "nom": "chionophobie",
+    "description": "Peur de la neige.",
+    "categorie": "Nature",
+    "rareté": "Rare"
+  },
+  {
+    "id": 42,
+    "nom": "astraphobie",
+    "description": "Peur des orages.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 43,
+    "nom": "brontophobie",
+    "description": "Peur du tonnerre.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 44,
+    "nom": "nyctophobie",
+    "description": "Peur de l'obscurité.",
+    "categorie": "Nature",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 45,
+    "nom": "agoraphobie",
+    "description": "Peur des grands espaces.",
+    "categorie": "Environnement",
+    "rareté": "Commune"
+  },
+  {
+    "id": 46,
+    "nom": "phonophobie",
+    "description": "Peur du bruit.",
+    "categorie": "Environnement",
+    "rareté": "Commune"
+  },
+  {
+    "id": 47,
+    "nom": "monophobie",
+    "description": "Peur de la solitude .",
+    "categorie": "Concept",
+    "rareté": "Commune"
+  },
+  {
+    "id": 48,
+    "nom": "aviophobie",
+    "description": "Peur de l'avion.",
+    "categorie": "Situation",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 49,
+    "nom": "ascensumophobie",
+    "description": "Peur de prendre l'ascenseur.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 50,
+    "nom": "sidérodromophobie",
+    "description": "Peur des trains.",
+    "categorie": "Situations",
+    "rareté": "Commune"
+  },
+  {
+    "id": 51,
+    "nom": "liminophobie",
+    "description": "Peur des espaces liminaux.",
+    "categorie": "Environnement",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 52,
+    "nom": "ochlophobie",
+    "description": "Peur de la foule.",
+    "categorie": "Environnement",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 53,
+    "nom": "glossophobie",
+    "description": "Peur de parler devant un groupe.",
+    "categorie": "Situations",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 54,
+    "nom": "Caïnophobie",
+    "description": "Peur de la nouveauté.",
+    "categorie": "Situations",
+    "rareté": "Commune"
+  },
+  {
+    "id": 55,
+    "nom": "scopophobie",
+    "description": "Peur d'être observé.",
+    "categorie": "Situations",
+    "rareté": "Commune"
+  },
+  {
+    "id": 56,
+    "nom": "aquaphobie",
+    "description": "Peur de l'eau.",
+    "categorie": "Environnement",
+    "rareté": "Rare"
+  },
+  {
+    "id": 57,
+    "nom": "stomatophobie",
+    "description": "Peur du dentiste.",
+    "categorie": "Situations",
+    "rareté": "Commune"
+  },
+  {
+    "id": 58,
+    "nom": "nosocomephobie",
+    "description": "Peur d'aller à l'hôpital.",
+    "categorie": "Situations",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 59,
+    "nom": "phasmophobie",
+    "description": "Peur des fantomes.",
+    "categorie": "Concept",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 60,
+    "nom": "spectrophobie",
+    "description": "Peur des miroirs.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 61,
+    "nom": "labyrinthophobie",
+    "description": "Peur des labyrinthes.",
+    "categorie": "Environnement",
+    "rareté": "Rare"
+  },
+  {
+    "id": 62,
+    "nom": "hématophobie",
+    "description": "Peur du sang.",
+    "categorie": "Environnement",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 63,
+    "nom": "bélénophobie",
+    "description": "Peur des aiguilles.",
+    "categorie": "Objets",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 64,
+    "nom": "raumatophobie",
+    "description": "Peur des blessures.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 65,
+    "nom": "nosophobie",
+    "description": "Peur des maladies.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 66,
+    "nom": "émétophobie",
+    "description": "Peur de vomir.",
+    "categorie": "Situation",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 67,
+    "nom": "pnigophobie",
+    "description": "Peur de s'étouffer.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 68,
+    "nom": "globophobie",
+    "description": "Peur des ballons.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 70,
+    "nom": "pédiophobie",
+    "description": "Peur des poupées.",
+    "categorie": "Objets",
+    "rareté": "Commune"
+  },
+  {
+    "id": 71,
+    "nom": "coulrophobie",
+    "description": "Peur des clowns.",
+    "categorie": "Situation",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 72,
+    "nom": "maskaphobie",
+    "description": "Peur des masques.",
+    "categorie": "Objets",
+    "rareté": "Commune"
+  },
+  {
+    "id": 73,
+    "nom": "héliophobie",
+    "description": "Peur du soleil.",
+    "categorie": "Environnement",
+    "rareté": "Rare"
+  },
+  {
+    "id": 74,
+    "nom": "thanatophobie",
+    "description": "Peur de la mort.",
+    "categorie": "Concept",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 75,
+    "nom": "ergophobie",
+    "description": "Peur du travail.",
+    "categorie": "Situation",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 76,
+    "nom": "alcoolophobie",
+    "description": "Peur de l'alcool.",
+    "categorie": "Objets",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 77,
+    "nom": "automysophobie",
+    "description": "Peur d'etre sale'.",
+    "categorie": "Concept",
+    "rareté": "Commune"
+  },
+  {
+    "id": 78,
+    "nom": "peluchophobie",
+    "description": "Peur des peluches.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 79,
+    "nom": "automatonophobie",
+    "description": "Peur des statues.",
+    "categorie": "Objets",
+    "rareté": "Commune"
+  },
+  {
+    "id": 80,
+    "nom": "aichmophobie",
+    "description": "Peur des objets pointus.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 81,
+    "nom": "machairophobie",
+    "description": "Peur des couteaux.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 82,
+    "nom": "robophobie",
+    "description": "Peur des robots.",
+    "categorie": "Objets",
+    "rareté": "Commune"
+  },
+  {
+    "id": 83,
+    "nom": "véloxrotaphobie",
+    "description": "Peur de manèges.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 84,
+    "nom": "asthénophobie",
+    "description": "Peur de s'évanouir.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 85,
+    "nom": "phobophobie",
+    "description": "Peur d'avoir peur.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 86,
+    "nom": "trypophobie",
+    "description": "Peur des trous.",
+    "categorie": "Environnement",
+    "rareté": "Rare"
+  },
+  {
+    "id": 87,
+    "nom": "cogombophobie",
+    "description": "Peur des boites en cartons.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 88,
+    "nom": "ovaphobie",
+    "description": "Peur d'un oeuf.",
+    "categorie": "Animaux",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 89,
+    "nom": "venustraphobie",
+    "description": "Peur des femmes.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 90,
+    "nom": "alexinomie",
+    "description": "Peur de dire un prenom.",
+    "categorie": "Situation",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 91,
+    "nom": "capéophobie",
+    "description": "Peur des chapeaux.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 92,
+    "nom": "ommatophobie",
+    "description": "Peur des yeux.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 93,
+    "nom": "mnémophobie",
+    "description": "Peur des souvenirs.",
+    "categorie": "Concept",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 94,
+    "nom": "haphephobie",
+    "description": "Peur des contacts physiques.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 95,
+    "nom": "ptophobia",
+    "description": "Peur de tomber.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 96,
+    "nom": "bathmophobie",
+    "description": "Peur des escaliers.",
+    "categorie": "Environnement",
+    "rareté": "Rare"
+  },
+  {
+    "id": 97,
+    "nom": "cherophobie",
+    "description": "Peur du bonheur.",
+    "categorie": "Concept",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 98,
+    "nom": "atychiphobie",
+    "description": "Peur de l'echec.",
+    "categorie": "Concept",
+    "rareté": "Commune"
+  },
+  {
+    "id": 99,
+    "nom": "zymarikaphobie",
+    "description": "Peur des pâtes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 100,
+    "nom": "mortuusequusphobie",
+    "description": "Peur du ketchup.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 101,
+    "nom": "atelophobie",
+    "description": "Peur de l'imperfection.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 102,
+    "nom": "cascadastraphobie",
+    "description": "Peur de regarder le ciel.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 103,
+    "nom": "pemmaphobie",
+    "description": "Peur des gateaux.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 104,
+    "nom": "philematophobie",
+    "description": "Peur des bisous.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 105,
+    "nom": "koumpounophobie",
+    "description": "Peur des boutons.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 106,
+    "nom": "astrophobia",
+    "description": "Peur des etoiles.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 107,
+    "nom": "hoplophobie",
+    "description": "Peur des armes à feu.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 108,
+    "nom": "entamaphobie",
+    "description": "Peur des portes.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 109,
+    "nom": "cathedraphobie",
+    "description": "Peur des chaises.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 110,
+    "nom": "oneirophobie",
+    "description": "Peur des rêves.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 111,
+    "nom": "hypnophobie",
+    "description": "Peur de s'endormir'.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 112,
+    "nom": "linonophobie",
+    "description": "Peur des fils.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 113,
+    "nom": "chorophobie",
+    "description": "Peur de dancer.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 114,
+    "nom": "ludilophobie",
+    "description": "Peur des jouets.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 115,
+    "nom": "xanthophobie",
+    "description": "Peur du jaune.",
+    "categorie": "Concept",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 116,
+    "nom": "barophobie",
+    "description": "Peur de la gravité.",
+    "categorie": "Concept",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 117,
+    "nom": "hypoquetophobie",
+    "description": "Peur des questions.",
+    "categorie": "Concept",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 118,
+    "nom": "zelophobie",
+    "description": "Peur de la jalousie.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 119,
+    "nom": "kouvaphobie",
+    "description": "Peur des seaux.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 120,
+    "nom": "xafniasmaphobie",
+    "description": "Peur des surprises.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 121,
+    "nom": "selaphobie",
+    "description": "Peur des flash lumineux.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 122,
+    "nom": "arithmophobie",
+    "description": "Peur des nombres.",
+    "categorie": "Concept",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 123,
+    "nom": "papyrophobie",
+    "description": "Peur du papier.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 124,
+    "nom": "technophobie",
+    "description": "Peur de la technologie.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 125,
+    "nom": "pyrophobie",
+    "description": "Peur du feu.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 126,
+    "nom": "carpophobie",
+    "description": "Peur des fruits.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 127,
+    "nom": "textophobie",
+    "description": "Peur des textures.",
+    "categorie": "Objets",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 128,
+    "nom": "hagiophobie",
+    "description": "Peur du sacré.",
+    "categorie": "Concept",
+    "rareté": "Commune"
+  },
+  {
+    "id": 129,
+    "nom": "décidophobie",
+    "description": "Peur de decide.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 130,
+    "nom": "kinemortophobie",
+    "description": "Peur des morts vivant.",
+    "categorie": "Concept",
+    "rareté": "Commune"
+  },
+  {
+    "id": 131,
+    "nom": "alopophobie",
+    "description": "Peur des chauves.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 132,
+    "nom": "amaxophobie",
+    "description": "Peur de conduir.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 133,
+    "nom": "compétitophobie",
+    "description": "Peur des competition.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 134,
+    "nom": "cécophobie",
+    "description": "Peur de l'odorat.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 135,
+    "nom": "autophobie",
+    "description": "Peur de sois-meme.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 136,
+    "nom": "cécophobie",
+    "description": "Peur de devenir aveugle.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 137,
+    "nom": "pocrescophobie",
+    "description": "Peur de grossir.",
+    "categorie": "Situation",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 138,
+    "nom": "élainophobie",
+    "description": "Peur de l'huile.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 139,
+    "nom": "mythophobie",
+    "description": "Peur des mythes.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 140,
+    "nom": "thermophobie",
+    "description": "Peur des temperature elevee.",
+    "categorie": "Environnement",
+    "rareté": "Rare"
+  },
+  {
+    "id": 141,
+    "nom": "microphobie",
+    "description": "Peur du minuscule.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 142,
+    "nom": "radiophobie",
+    "description": "Peur des ondes.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 143,
+    "nom": "ataxophobie",
+    "description": "Peur du desordre.",
+    "categorie": "Environnement",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 144,
+    "nom": "géniophobie",
+    "description": "Peur des mentons.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 145,
+    "nom": "votaphobie",
+    "description": "Peur des factures.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 146,
+    "nom": "anuptaphobie",
+    "description": "Peur du celibat.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 147,
+    "nom": "stasophobie",
+    "description": "Peur de rester debout.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 148,
+    "nom": "omphalophobie",
+    "description": "Peur des nombrils.",
+    "categorie": "Environnement",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 149,
+    "nom": "blennophobie",
+    "description": "Peur du gluant.",
+    "categorie": "Environnement",
+    "rareté": "Commune"
+  },
+  {
+    "id": 150,
+    "nom": "métallophobie",
+    "description": "Peur des metaux.",
+    "categorie": "Environnement",
+    "rareté": "Rare"
+  },
+  {
+    "id": 151,
+    "nom": "nucléumitophobie",
+    "description": "Peur du nucleaire.",
+    "categorie": "Environnement",
+    "rareté": "Commune"
+  },
+  {
+    "id": 152,
+    "nom": "anoixiphobie",
+    "description": "Peur du printemps.",
+    "categorie": "Environnement",
+    "rareté": "Très rare"
+  },
+  {
+    "id": 153,
+    "nom": "sémiochophobie",
+    "description": "Peur des poids lourds.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 154,
+    "nom": "ptéronophobie",
+    "description": "Peur des plumes.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 155,
+    "nom": "anatidaephobie",
+    "description": "Peur des canard.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 156,
+    "nom": "dinophobie",
+    "description": "Peur des dinosaures.",
+    "categorie": "Animaux",
+    "rareté": "Rare"
+  },
+  {
+    "id": 157,
+    "nom": "hexakosioihexekontahexaphobie",
+    "description": "Peur du nombre 666.",
+    "categorie": "Concept",
+    "rareté": "Commune"
+  },
+  {
+    "id": 158,
+    "nom": "eschatophobie",
+    "description": "Peur de la fin du monde.",
+    "categorie": "Situation",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 159,
+    "nom": "mérinthophobie",
+    "description": "Peur d'etre ligote.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 160,
+    "nom": "apéirophobie",
+    "description": "Peur de l'eternite.",
+    "categorie": "Concept",
+    "rareté": "Commune"
+  },
+  {
+    "id": 161,
+    "nom": "cathisophobie",
+    "description": "Peur d etre assis.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 162,
+    "nom": "hadéphobie",
+    "description": "Peur des enfer.",
+    "categorie": "Environnement",
+    "rareté": "Très commune"
+  },
+  {
+    "id": 163,
+    "nom": "moreaunélaphobie",
+    "description": "Peur des peintures.",
+    "categorie": "Objets",
+    "rareté": "Rare"
+  },
+  {
+    "id": 164,
+    "nom": "ablutophobie",
+    "description": "Peur de se noyer.",
+    "categorie": "Situation",
+    "rareté": "Commune"
+  },
+  {
+    "id": 165,
+    "nom": "cibophobie",
+    "description": "Peur de manger.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 166,
+    "nom": "symbolophobie",
+    "description": "Peur des symboles.",
+    "categorie": "Concept",
+    "rareté": "Rare"
+  },
+  {
+    "id": 167,
+    "nom": "mageirocophobie",
+    "description": "Peur de cuisiner.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 168,
+    "nom": "atomosophobie",
+    "description": "Peur des explosions.",
+    "categorie": "Situation",
+    "rareté": "Rare"
+  },
+  {
+    "id": 169,
+    "nom": "xylophobie",
+    "description": "Peur du bois",
+    "categorie": "Nature",
+    "rareté": "Rare"
+  }
+]

@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: #f3e6d0;
+    color: #4a1f2d;
+}
+
+h1 {
+    text-align: center;
+    color: #6b1f35;
+}
+
+h2 {
+    color: #6b1f35;
+    margin-top: 25px;
+}
+
+form {
+    background-color: #fff8ed;
+    padding: 20px;
+    margin-bottom: 20px;
+
+    border: 2px solid #6b1f35;
+    border-radius: 8px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+
+    border: 1px solid #b58b6a;
+    border-radius: 5px;
+    background-color: #fffaf2;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+
+    border: none;
+    border-radius: 5px;
+
+    background-color: #6b1f35;
+    color: #fff8ed;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4a1526;
+}
+
+
+#liste {
+    margin-top: 20px;
+}
+
+.phobie {
+    background-color: #fff8ed;
+
+    border-left: 6px solid #6b1f35;
+
+    padding: 15px;
+    margin-bottom: 15px;
+
+    border-radius: 5px;
+}
+
+.phobie h3 {
+    color: #6b1f35;
+    margin-top: 0;
+}
+
+
+#message {
+    color: #6b1f35;
+    font-weight: bold;
+}
+
+#pagination {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#page {
+    font-weight: bold;
+    color: #6b1f35;
+}
